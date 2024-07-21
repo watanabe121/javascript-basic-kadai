@@ -1,6 +1,14 @@
-const weight = 68;
+let userWeight;
 
-const height = 1.7;
+userWeight = 68;
 
-console.log(weight/(height*height));
+let userHeight;
+
+userHeight = 1.7
+
+let bmi;
+
+bmi = 68/(1.7*1.7)
+
+console.log(bmi)
 
